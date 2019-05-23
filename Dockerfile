@@ -1,4 +1,4 @@
-FROM php:7.1.14-fpm
+FROM php:5.6.40-fpm
 
 LABEL maintainer="Samir MEHREZ <mehrezsamir@gmail.com>"
 
