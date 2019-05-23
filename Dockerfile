@@ -1,6 +1,6 @@
 FROM php:7.3.3-fpm
 
-LABEL maintainer="Vincent Letourneau <vincent@nanoninja.com>"
+LABEL maintainer="Samir MEHREZ <mehrezsamir@gmail.com>"
 
 RUN apt-get update && apt-get upgrade -y \
     && apt-get install -y \
